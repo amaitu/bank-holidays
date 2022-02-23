@@ -24,5 +24,5 @@ if not os.path.isdir(output_folder):
     raise Exception(f"Output folder {output_folder} not found.")
 
 for day in days:
-    with open(f"dist/{day}.json", "w", encoding="utf-8") as file:
+    with open(f"dist/days/{day}", "w", encoding="utf-8") as file:
         json.dump(days[day], file, ensure_ascii=False, indent=4)

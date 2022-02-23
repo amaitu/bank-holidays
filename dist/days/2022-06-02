@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Spring bank holiday",
+        "region": "england-and-wales",
+        "date": "2022-06-02",
+        "notes": ""
+    },
+    {
+        "name": "Spring bank holiday",
+        "region": "scotland",
+        "date": "2022-06-02",
+        "notes": ""
+    },
+    {
+        "name": "Spring bank holiday",
+        "region": "northern-ireland",
+        "date": "2022-06-02",
+        "notes": ""
+    }
+]
