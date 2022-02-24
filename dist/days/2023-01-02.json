@@ -1,0 +1,20 @@
+[
+    {
+        "name": "New Year’s Day",
+        "region": "england-and-wales",
+        "date": "2023-01-02",
+        "notes": "Substitute day"
+    },
+    {
+        "name": "New Year’s Day",
+        "region": "scotland",
+        "date": "2023-01-02",
+        "notes": "Substitute day"
+    },
+    {
+        "name": "New Year’s Day",
+        "region": "northern-ireland",
+        "date": "2023-01-02",
+        "notes": "Substitute day"
+    }
+]
